@@ -4,7 +4,7 @@
     "@types/node": "^20.12.7"
   },
   "name": "450-currency-convertor",
-  "description": "",
+  "description": "node.js currency convertor",
   "version": "2.0.5",
   "type": "module",
   "main": "index.js",
