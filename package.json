@@ -8,6 +8,7 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
+  "bin": "./ main.js",
   "dependencies": {
     "inquirer": "^9.2.19",
     "undici-types": "^5.26.5"
